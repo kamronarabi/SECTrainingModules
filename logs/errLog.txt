@@ -1,0 +1,14 @@
+20241225	20:01:44	c6875f9c-6125-46b8-9b73-ca78850616f4	Error: Not allowed by CORS
+20241227	17:29:47	9f2b8704-ac38-4b6f-863a-a1c88ec0d6e3	ReferenceError: newEmployye is not defined
+20241227	17:35:59	cef54e2f-7681-48f3-bae8-285cb7de9914	TypeError: Cannot read properties of undefined (reading 'id')
+20241227	17:36:09	f4d909a0-c031-46dc-a967-1a2a9f95666e	TypeError: Cannot read properties of undefined (reading 'id')
+20241227	17:36:19	56ac6ff5-6e5e-4fe9-8de6-a917b48d1c35	TypeError: Cannot read properties of undefined (reading 'id')
+20241227	17:36:35	a5d50517-439c-4eaf-974a-38123a582329	TypeError: Cannot read properties of undefined (reading 'id')
+20241227	17:36:52	2bdb7ca5-9623-4af3-8479-e8e4759c3b20	TypeError: Cannot read properties of undefined (reading 'id')
+20241227	17:37:38	d8662f38-3ef7-4b4d-b44c-7a209c9118ee	TypeError: Cannot read properties of undefined (reading 'id')
+20241227	17:38:01	81a9a0bf-9e80-4fce-892d-577dd316a800	TypeError: Cannot read properties of undefined (reading 'id')
+20241227	17:38:07	354cebf7-9196-4e11-b02a-2c062703e1fa	TypeError: Cannot read properties of undefined (reading 'id')
+20241227	17:39:55	8c63c30f-7f21-45aa-be12-f6e4f64bdd19	TypeError: Cannot read properties of undefined (reading 'id')
+20241230	16:47:27	b4c07290-fc69-4e92-9e28-660f2ce9054b	TypeError: corsOptions.includes is not a function
+20241230	16:53:43	9dac2589-e8fe-4bd1-9c14-f94546c81d8b	TypeError: corsOptions.includes is not a function
+20241230	16:56:06	ecc79d03-b26e-464c-9e6e-ac64ea3d9351	TypeError: corsOptions.includes is not a function
